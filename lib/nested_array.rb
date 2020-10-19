@@ -99,6 +99,7 @@ def matrix_lookup(matrix, row, column)
   "Asparagus"
 ]
 ]
+matrix[1][1]
     
   
   
